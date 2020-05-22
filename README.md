@@ -1,7 +1,7 @@
 # COVID-19-Ontario
 This is a subproject to support Prof Luo's analysis paper.
 
-##Result:
+## Result:
 
   ppl_plots: the plot for total number of cases for each CMA city
   per_plots: the plot for percentage of cases for each CMA city based on population/1000
@@ -10,7 +10,7 @@ This is a subproject to support Prof Luo's analysis paper.
 	- ppl: population
 	- per: percentage
 
-##To re-run:
+## To re-run:
 
 Python packages may need to install:
   pandas: pip install pandas
